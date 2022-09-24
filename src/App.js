@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       Merhaba
-      <img src={image} alt='test' />
+      <img src={image} alt="test" />
       <HelloWord />
     </div>
   );
