@@ -21,7 +21,6 @@ module.exports = {
     'import/no-unresolved': 'off',
     'react/jsx-filename-extension': 'off',
     'no-console': 'off',
-    'jsx-quotes': 'off',
     'prettier/prettier': 'error'
   },
 };
